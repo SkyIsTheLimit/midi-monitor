@@ -1,2 +1,3 @@
-# midi-monitor
-Application for testing MIDI devices. 
+# MIDI Monitor
+
+Application for testing MIDI devices.
